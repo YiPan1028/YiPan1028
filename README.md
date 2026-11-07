@@ -31,7 +31,7 @@
 
 | Area | Practical skills |
 | :--- | :--- |
-| **Machine learning & data** | Data preparation, statistical and time-series analysis, model experimentation, and visualization with **Python, pandas, NumPy, and scikit-learn**. |
+| **Machine learning & data** | Data preparation, statistical and time-series analysis, model experimentation, and visualization with **Python, pandas, NumPy, and scikit-learn**.<br>Exploring deep learning, gradient boosting, and efficient model adaptation with **PyTorch, LightGBM, Hugging Face Transformers, and PEFT (including LoRA)**. |
 | **Quantitative research** | Factor computation, **IC/ICIR evaluation**, portfolio backtesting, and transaction-cost analysis with **Python, SQL, and DuckDB**. |
 | **LLMs & retrieval** | Event extraction, embedding-based retrieval, LLM API evaluation, batch inference, caching, and reproducible data pipelines. |
 | **Full-stack development** | Interactive interfaces and REST APIs with **React, TypeScript, Node.js, FastAPI, and Java/Spring Boot**; database integration with **PostgreSQL, MySQL, and MongoDB**. |
