@@ -31,8 +31,7 @@
 
 | Project | On the bench | Stack |
 | :--- | :--- | :--- |
-| **Quantitative market research** *(ongoing)* | Exploring event-driven market forecasting through reproducible historical analysis and controlled backtesting. | Python · SQL · Backtesting |
-| **Dense retrieval research** *(ongoing)* | Research on dense retrieval and systematic evaluation, with reproducible experiment pipelines. | Python · Faiss · OpenSearch · DVC |
+| **CRAFT dense retrieval research** *(ongoing)* | Research on dense retrieval and systematic evaluation, with reproducible experiment pipelines. | Python · Faiss · OpenSearch · DVC |
 | [Single-factor research](https://github.com/YiPan1028/Quant-Structure-Single-Factor) | A-share factor research, IC/ICIR analysis, and cost-aware backtests. | Python · DuckDB |
 | [LoveCare](https://github.com/YiPan1028/Hackthon_Project) | A hackathon prototype for mood check-ins and daily reflections. | React · TypeScript |
 | [Learning shelf: RAG & agents](https://github.com/YiPan1028/oreilly-retrieval-augmented-gen-ai) | O’Reilly course code I’m exploring as a learning reference. | Python · Notebooks |
