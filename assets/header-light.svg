@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="370" viewBox="0 0 1200 370" role="img" aria-labelledby="title desc">
 <title id="title">Hi, I'm Yi. Serious experiments. Playful curiosity.</title>
-<desc id="desc">Yi's little lab: exploring retrieval, quant research and useful little tools, with a cheerful mint-green laboratory flask.</desc>
+<desc id="desc">Yi's little lab: exploring machine learning, quant research and useful little tools, with a cheerful mint-green laboratory flask.</desc>
 <defs>
   <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#dbe6df"/></pattern>
 </defs>
@@ -13,7 +13,7 @@
   <text x="54" y="153" font-size="76" font-weight="750" letter-spacing="-3.8" fill="#192c31">Hi, I'm Yi<tspan fill="#db684a">.</tspan></text>
   <text x="58" y="207" font-size="27" font-weight="600" letter-spacing="-.4" fill="#192c31">Serious experiments.</text>
   <text x="58" y="244" font-size="29" font-style="italic" font-family="Georgia, 'Times New Roman', serif" fill="#087f72">Playful curiosity.</text>
-  <text x="58" y="282" font-size="17" fill="#526970">Exploring retrieval, quant research &amp; useful little tools.</text>
+  <text x="58" y="282" font-size="17" fill="#526970">Exploring machine learning, quant research &amp; useful little tools.</text>
   <g font-family="'SFMono-Regular', Consolas, monospace" font-size="12" letter-spacing="1.2">
     <text x="58" y="332" fill="#192c31">ASK</text><text x="96" y="332" fill="#db684a">→</text>
     <text x="120" y="332" fill="#192c31">BUILD</text><text x="175" y="332" fill="#db684a">→</text>
