@@ -13,8 +13,8 @@
 
 <p align="center">
   <a href="#interests">Interests</a> &nbsp;·&nbsp;
-  <a href="#skills">Skills</a> &nbsp;·&nbsp;
   <a href="#workbench">Workbench</a> &nbsp;·&nbsp;
+  <a href="#skills">Skills</a> &nbsp;·&nbsp;
   <a href="#say-hi">Say hi</a>
 </p>
 
@@ -24,6 +24,18 @@
 
 - **Machine learning** — learning from data, exploring retrieval-augmented systems, and evaluating models through reproducible experiments.
 - **Quantitative research** — turning market questions into factors, testing signals with time-series analysis, and accounting for trading costs in backtests.
+
+<a name="workbench"></a>
+
+## 🧪 On my workbench
+
+| Project | On the bench | Stack |
+| :--- | :--- | :--- |
+| **Quantitative market research** *(ongoing)* | Exploring event-driven market forecasting through reproducible historical analysis and controlled backtesting. | Python · SQL · Backtesting |
+| **Dense retrieval research** *(ongoing)* | Research on dense retrieval and systematic evaluation, with reproducible experiment pipelines. | Python · Faiss · OpenSearch · DVC |
+| [Single-factor research](https://github.com/YiPan1028/Quant-Structure-Single-Factor) | A-share factor research, IC/ICIR analysis, and cost-aware backtests. | Python · DuckDB |
+| [LoveCare](https://github.com/YiPan1028/Hackthon_Project) | A hackathon prototype for mood check-ins and daily reflections. | React · TypeScript |
+| [Learning shelf: RAG & agents](https://github.com/YiPan1028/oreilly-retrieval-augmented-gen-ai) | O’Reilly course code I’m exploring as a learning reference. | Python · Notebooks |
 
 <a name="skills"></a>
 
@@ -38,16 +50,6 @@
 | **Engineering & systems** | Version control, environment automation, containerized workflows, and cloud tooling with **Git, Shell, Docker, and Google Cloud**. |
 
 **Languages:** `Python` `Java` `C` `C++` `SQL` `JavaScript` `TypeScript` `HTML/CSS` `Shell`
-
-<a name="workbench"></a>
-
-## 🧪 On my workbench
-
-| Project | On the bench | Stack |
-| :--- | :--- | :--- |
-| [Single-factor research](https://github.com/YiPan1028/Quant-Structure-Single-Factor) | A-share factor research, IC/ICIR analysis, and cost-aware backtests. | Python · DuckDB |
-| [LoveCare](https://github.com/YiPan1028/Hackthon_Project) | A hackathon prototype for mood check-ins and daily reflections. | React · TypeScript |
-| [Learning shelf: RAG & agents](https://github.com/YiPan1028/oreilly-retrieval-augmented-gen-ai) | O’Reilly course code I’m exploring as a learning reference. | Python · Notebooks |
 
 ### A few lab rules
 
