@@ -3,28 +3,41 @@
   <source media="(max-width: 600px)" srcset="assets/header-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img src="assets/header-light.svg" width="100%" alt="Hi, I'm Yi. Serious experiments. Playful curiosity. Exploring retrieval, quant research &amp; useful little tools.">
+  <img src="assets/header-light.svg" width="100%" alt="Hi, I'm Yi. Serious experiments. Playful curiosity. Exploring machine learning, quant research &amp; useful little tools.">
 </picture>
 
 <p align="center">
-  Exploring ideas through code, careful experiments, and a healthy supply of “what if?”<br>
-  <strong>认真研究，也认真好奇。</strong>
+  Exploring machine learning and quantitative research through code, careful experiments, and a healthy supply of “what if?”<br>
+  <strong>Curious by nature. Evidence by habit.</strong>
 </p>
 
 <p align="center">
-  <a href="#research">Research</a> &nbsp;·&nbsp;
+  <a href="#interests">Interests</a> &nbsp;·&nbsp;
+  <a href="#skills">Skills</a> &nbsp;·&nbsp;
   <a href="#workbench">Workbench</a> &nbsp;·&nbsp;
-  <a href="#toolbox">Toolbox</a> &nbsp;·&nbsp;
   <a href="#say-hi">Say hi</a>
 </p>
 
-<a name="research"></a>
+<a name="interests"></a>
 
-## 🔬 Research
+## 🔬 Research interests
 
-- **Retrieval & RAG** — exploring how to find useful evidence, build better context, and evaluate what actually helps.
-- **Quantitative research** — turning market questions into factor experiments, checking assumptions, and keeping trading costs in the picture.
-- **Ideas into interfaces** — making small, useful prototypes that let people interact with an idea instead of just reading about it.
+- **Machine learning** — learning from data, exploring retrieval-augmented systems, and evaluating models through reproducible experiments.
+- **Quantitative research** — turning market questions into factors, testing signals with time-series analysis, and accounting for trading costs in backtests.
+
+<a name="skills"></a>
+
+## 🛠️ Skills — what I can do
+
+| Area | Practical skills |
+| :--- | :--- |
+| **Machine learning & data** | Data preparation, statistical and time-series analysis, model experimentation, and visualization with **Python, pandas, NumPy, and scikit-learn**. |
+| **Quantitative research** | Factor computation, **IC/ICIR evaluation**, portfolio backtesting, and transaction-cost analysis with **Python, SQL, and DuckDB**. |
+| **LLMs & retrieval** | Event extraction, embedding-based retrieval, LLM API evaluation, batch inference, caching, and reproducible data pipelines. |
+| **Full-stack development** | Interactive interfaces and REST APIs with **React, TypeScript, Node.js, FastAPI, and Java/Spring Boot**; database integration with **PostgreSQL, MySQL, and MongoDB**. |
+| **Engineering & systems** | Version control, environment automation, containerized workflows, and cloud tooling with **Git, Shell, Docker, and Google Cloud**. |
+
+**Languages:** `Python` `Java` `C` `C++` `SQL` `JavaScript` `TypeScript` `HTML/CSS` `Shell`
 
 <a name="workbench"></a>
 
@@ -41,14 +54,6 @@
 1. **Start with a question.** Bonus points if it begins with “what if?”
 2. **Let the evidence argue back.** A surprising result is an invitation to investigate.
 3. **Keep the experiment reproducible.** Future me deserves a fighting chance.
-
-<a name="toolbox"></a>
-
-## 🛠️ Toolbox
-
-**Research** &nbsp; `Python` `pandas` `NumPy` `DuckDB`  
-**Build** &nbsp; `React` `TypeScript` `Vite`  
-**Workflow** &nbsp; `Git`
 
 <a name="say-hi"></a>
 
